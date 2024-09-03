@@ -1,6 +1,10 @@
 ## Hi there 👋
 Welcome to **melab BD**.
 
+![melabBD Logo 192x192px](https://github.com/user-attachments/assets/09a685f2-ae2b-4844-a891-75d4499c2973)
+
+![5 Easy Science Experiments](https://github.com/user-attachments/assets/e6a4adab-0963-422a-9324-f2632d7019a0)
+
 **melab BD** is an organization dedicated to the design, development, learning, and sharing of knowledge in the fields of electronics and microcontroller technology.
 
 **Don’t forget to subscribe to melab BD** for more amazing science experiments, educational content, and fun learning activities. Hit the notification bell so you never miss a new video!
