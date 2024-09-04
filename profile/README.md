@@ -11,5 +11,5 @@ A team of experienced electronic engineers are contributing here. Intended to sh
 👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
 Projects:
-![VA Meter Connection_xxxx](https://github.com/user-attachments/assets/f0b6d17b-a0ce-4e5b-a5a0-48c523a83de0)![VoltMeter_Connections_3](https://github.com/user-attachments/assets/226590fa-e336-49d1-9b49-3dc88439df62)
+![VoltMeter_Connections_3](https://github.com/user-attachments/assets/226590fa-e336-49d1-9b49-3dc88439df62)
 ![The Voltage Divider Circuit](https://github.com/user-attachments/assets/576268c9-e293-4f03-b3d9-aa56b4be3c2f)
