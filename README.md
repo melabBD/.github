@@ -1,9 +1,17 @@
 # .github
-Micro Electronics Laboratory Bangladesh (melab BD)
+![melabBD Logo 192x192px](https://github.com/user-attachments/assets/09a685f2-ae2b-4844-a891-75d4499c2973)
 
 Welcome to **melab BD**.
 
+🙋‍♀️🙋‍♀️🙋‍♀️
 **melab BD** is an organization dedicated to the design, development, learning, and sharing of knowledge in the fields of electronics and microcontroller technology.
+
+A team of experienced electronic engineers are contributing here. Intended to share technical know how's on real need basis. A student, a beginner or a professional can get help from these documents.
+<BR>
+<BR>
+👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
+
+Projects:
 
 **Don’t forget to subscribe to melab BD** for more amazing science experiments, educational content, and fun learning activities. Hit the notification bell so you never miss a new video!
 
