@@ -17,14 +17,6 @@ A team of experienced electronic engineers are contributing here. Intended to sh
 Projects:
 ![IMG_20240803_015817](https://github.com/user-attachments/assets/a7cf0e88-e377-40de-b7cb-12f167c9237c)
 
-
-
-
-![Frame-00475](https://github.com/user-attachments/assets/964b3dbd-b0dc-4beb-bae3-2254dcf504dc)
-
-
-![Frame-01312](https://github.com/user-attachments/assets/0c2e1101-4376-4019-99dd-105ebb903f5e)
 ![VA Meter Connection_xxxx](https://github.com/user-attachments/assets/f0b6d17b-a0ce-4e5b-a5a0-48c523a83de0)![VoltMeter_Connections_3](https://github.com/user-attachments/assets/226590fa-e336-49d1-9b49-3dc88439df62)
-
 
 ![The Voltage Divider Circuit](https://github.com/user-attachments/assets/576268c9-e293-4f03-b3d9-aa56b4be3c2f)
