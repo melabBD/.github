@@ -1,3 +1,12 @@
+<!-- Link Buttons (Right Aligned) with Rectangle Box Style -->
+<p align="right">
+  <a href="https://github.com/melabBD" style="display: inline-block; padding: 12px 30px; margin: 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #007bff; border-radius: 4px; text-decoration: none; border: 2px solid #0056b3;">GitHub Repositories</a>
+  <a href="https://example.com" style="display: inline-block; padding: 12px 30px; margin: 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #28a745; border-radius: 4px; text-decoration: none; border: 2px solid #1e7e34;">Useful Resources</a>
+  <a href="https://example.com" style="display: inline-block; padding: 12px 30px; margin: 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #dc3545; border-radius: 4px; text-decoration: none; border: 2px solid #c82333;">Contact Us</a>
+  <a href="https://example.com" style="display: inline-block; padding: 12px 30px; margin: 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #17a2b8; border-radius: 4px; text-decoration: none; border: 2px solid #138496;">More Info</a>
+  <a href="https://example.com" style="display: inline-block; padding: 12px 30px; margin: 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #ffc107; border-radius: 4px; text-decoration: none; border: 2px solid #e0a800;">Updates</a>
+</p>
+
 ![melabBD Logo 192x192px](https://github.com/user-attachments/assets/09a685f2-ae2b-4844-a891-75d4499c2973)
 
 # Welcome to **melab BD**
@@ -30,3 +39,4 @@ Here are some key projects and resources provided by our community:
 
 ---
 
+**Note:** The button styles use inline CSS for color, padding, border, and other styles, which is supported in GitHub Markdown.
