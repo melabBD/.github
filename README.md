@@ -4,16 +4,16 @@
     <img src="https://github.com/melabBD/.github/blob/0c22185a4aa40fb60296ff299e3c0b7feecda179/Assets/Images/btn1.png" alt="GitHub Repositories" width="150" style="margin: 10px;"/>
   </a>
   <a href="https://example.com">
-    <img src="https://github.com/melabBD/.github/blob/0c22185a4aa40fb60296ff299e3c0b7feecda179/Assets/Images/btn2.png" alt="Useful Resources" width="150" style="margin: 10px;"/>
+    <img src="https://github.com/melabBD/.github/blob/0c5a488df02edf6dcbc6b6bcfbab6eea6c1b14bb/Assets/Images/btn2.png" alt="Useful Resources" width="150" style="margin: 10px;"/>
   </a>
   <a href="https://example.com">
-    <img src="https://github.com/melabBD/.github/blob/0c22185a4aa40fb60296ff299e3c0b7feecda179/Assets/Images/btn3.png" alt="Contact Us" width="150" style="margin: 10px;"/>
+    <img src="https://github.com/melabBD/.github/blob/0c5a488df02edf6dcbc6b6bcfbab6eea6c1b14bb/Assets/Images/btn2.png" alt="Contact Us" width="150" style="margin: 10px;"/>
   </a>
   <a href="https://example.com">
-    <img src="https://github.com/melabBD/.github/blob/0c22185a4aa40fb60296ff299e3c0b7feecda179/Assets/Images/btn4.png" alt="More Info" width="150" style="margin: 10px;"/>
+    <img src="https://github.com/melabBD/.github/blob/0c5a488df02edf6dcbc6b6bcfbab6eea6c1b14bb/Assets/Images/btn2.png" alt="More Info" width="150" style="margin: 10px;"/>
   </a>
   <a href="https://example.com">
-    <img src="https://github.com/melabBD/.github/blob/0c22185a4aa40fb60296ff299e3c0b7feecda179/Assets/Images/btn5.png" alt="Updates" width="150" style="margin: 10px;"/>
+    <img src="https://github.com/melabBD/.github/blob/0c5a488df02edf6dcbc6b6bcfbab6eea6c1b14bb/Assets/Images/btn4.png" alt="Updates" width="150" style="margin: 10px;"/>
   </a>
 </p>
 
