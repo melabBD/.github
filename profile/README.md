@@ -1,4 +1,4 @@
-![melabBD Logo 192x192px](https://github.com/user-attachments/assets/09a685f2-ae2b-4844-a891-75d4499c2973)
+![daraz_banr_phn](https://github.com/melabBD/melabBD.github/assets/78910261/009b1555-2d62-4564-b8b3-9af889c8a9b0)
 
 # Welcome to **melab BD**
 
