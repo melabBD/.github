@@ -1,26 +1,52 @@
-# .github
+<!-- Graphical Buttons (Right Aligned) using images -->
+<p align="right">
+  <a href="https://github.com/melabBD">
+    <img src="https://github.com/melabBD/.github/blob/0c22185a4aa40fb60296ff299e3c0b7feecda179/Assets/Images/btn1.png" alt="GitHub Repositories" width="150" style="margin: 10px;"/>
+  </a>
+  <a href="https://example.com">
+    <img src="https://github.com/melabBD/.github/blob/0c5a488df02edf6dcbc6b6bcfbab6eea6c1b14bb/Assets/Images/btn2.png" alt="Useful Resources" width="150" style="margin: 10px;"/>
+  </a>
+  <a href="https://example.com">
+    <img src="https://github.com/melabBD/.github/blob/0c5a488df02edf6dcbc6b6bcfbab6eea6c1b14bb/Assets/Images/btn2.png" alt="Contact Us" width="150" style="margin: 10px;"/>
+  </a>
+  <a href="https://example.com">
+    <img src="https://github.com/melabBD/.github/blob/0c5a488df02edf6dcbc6b6bcfbab6eea6c1b14bb/Assets/Images/btn2.png" alt="More Info" width="150" style="margin: 10px;"/>
+  </a>
+  <a href="https://example.com">
+    <img src="https://github.com/melabBD/.github/blob/0c5a488df02edf6dcbc6b6bcfbab6eea6c1b14bb/Assets/Images/btn4.png" alt="Updates" width="150" style="margin: 10px;"/>
+  </a>
+</p>
+
 ![melabBD Logo 192x192px](https://github.com/user-attachments/assets/09a685f2-ae2b-4844-a891-75d4499c2973)
 
-Welcome to **melab BD**.
+# Welcome to **melab BD**
 
 🙋‍♀️🙋‍♀️🙋‍♀️
-**melab BD** is an organization dedicated to the design, development, learning, and sharing of knowledge in the fields of electronics and microcontroller technology.
 
-A team of experienced electronic engineers are contributing here. Intended to share technical know how's on real need basis. A student, a beginner or a professional can get help from these documents.
+**melab BD** is an organization dedicated to the **design, development, learning,** and **sharing of knowledge** in the fields of electronics and microcontroller technology.
+
+A team of experienced electronic engineers is contributing here, aiming to share **technical know-how** based on real needs. Whether you're a **student**, a **beginner**, or a **professional**, you can find helpful resources in these documents.
+
 <BR>
 <BR>
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
 
-Projects:
+👩‍💻 **Useful Resources**
 
-**Don’t forget to subscribe to melab BD** for more amazing science experiments, educational content, and fun learning activities. Hit the notification bell so you never miss a new video!
+Here are some key projects and resources provided by our community:
 
-**Join the melab BD community:**
-- **Like** the video if you enjoyed it, and share it with your friends to spread the fun of science!
-- **Comment** below with your thoughts or any questions you have about the experiments.
-- **Subscribe** to our channel and become part of our growing community of science lovers.
+### Projects
 
-**Follow us on social media** for behind-the-scenes content, updates, and sneak peeks of upcoming videos:
-- [Facebook](https://www.facebook.com/melabBD/)
-- [Instagram](#)
-- [Twitter](#)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/226590fa-e336-49d1-9b49-3dc88439df62" alt="VoltMeter Connections" width="400"/>
+  <br>
+  <img src="https://github.com/user-attachments/assets/576268c9-e293-4f03-b3d9-aa56b4be3c2f" alt="The Voltage Divider Circuit" width="400"/>
+</p>
+
+<BR>
+<BR>
+
+**Feel free to explore, learn, and contribute!** 
+
+---
+
+**Note:** The button styles use inline CSS for color, padding, border, and other styles, which is supported in GitHub Markdown.
