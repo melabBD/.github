@@ -1,10 +1,20 @@
-<!-- Link Buttons (Right Aligned) with Rectangle Box Style -->
+<!-- Graphical Buttons (Right Aligned) using images -->
 <p align="right">
-  <a href="https://github.com/melabBD" style="display: inline-block; padding: 12px 30px; margin: 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #007bff; border-radius: 4px; text-decoration: none; border: 2px solid #0056b3;">GitHub Repositories</a>
-  <a href="https://example.com" style="display: inline-block; padding: 12px 30px; margin: 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #28a745; border-radius: 4px; text-decoration: none; border: 2px solid #1e7e34;">Useful Resources</a>
-  <a href="https://example.com" style="display: inline-block; padding: 12px 30px; margin: 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #dc3545; border-radius: 4px; text-decoration: none; border: 2px solid #c82333;">Contact Us</a>
-  <a href="https://example.com" style="display: inline-block; padding: 12px 30px; margin: 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #17a2b8; border-radius: 4px; text-decoration: none; border: 2px solid #138496;">More Info</a>
-  <a href="https://example.com" style="display: inline-block; padding: 12px 30px; margin: 15px; font-size: 16px; font-weight: bold; color: #fff; background-color: #ffc107; border-radius: 4px; text-decoration: none; border: 2px solid #e0a800;">Updates</a>
+  <a href="https://github.com/melabBD">
+    <img src="https://github.com/melabBD/.github/blob/0c22185a4aa40fb60296ff299e3c0b7feecda179/Assets/Images/btn1.png" alt="GitHub Repositories" width="150" style="margin: 10px;"/>
+  </a>
+  <a href="https://example.com">
+    <img src="https://github.com/melabBD/.github/blob/0c22185a4aa40fb60296ff299e3c0b7feecda179/Assets/Images/btn2.png" alt="Useful Resources" width="150" style="margin: 10px;"/>
+  </a>
+  <a href="https://example.com">
+    <img src="https://github.com/melabBD/.github/blob/0c22185a4aa40fb60296ff299e3c0b7feecda179/Assets/Images/btn3.png" alt="Contact Us" width="150" style="margin: 10px;"/>
+  </a>
+  <a href="https://example.com">
+    <img src="https://github.com/melabBD/.github/blob/0c22185a4aa40fb60296ff299e3c0b7feecda179/Assets/Images/btn4.png" alt="More Info" width="150" style="margin: 10px;"/>
+  </a>
+  <a href="https://example.com">
+    <img src="https://github.com/melabBD/.github/blob/0c22185a4aa40fb60296ff299e3c0b7feecda179/Assets/Images/btn5.png" alt="Updates" width="150" style="margin: 10px;"/>
+  </a>
 </p>
 
 ![melabBD Logo 192x192px](https://github.com/user-attachments/assets/09a685f2-ae2b-4844-a891-75d4499c2973)
