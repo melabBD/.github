@@ -145,4 +145,4 @@ Here are some key projects and resources provided by our community:
 
 ---
 
-*[![Watch the video](https://github.com/melabBD/melabBD.github/assets/78910261/009b1555-2d62-4564-b8b3-9af889c8a9b0)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)
+*[![Watch the video](https://github.com/user-attachments/assets/226590fa-e336-49d1-9b49-3dc88439df62)](https://github.com/melabBD/.github/blob/417faaea34e5d0845221c38230f8363eb955c324/Assets/Images/melabBD%20Intro%20PowePoint%204.mp4)
