@@ -49,4 +49,4 @@ Here are some key projects and resources provided by our community:
 
 ---
 
-**Note:** The button styles use inline CSS for color, padding, border, and other styles, which is supported in GitHub Markdown.
+*[![Watch the video](https://github.com/melabBD/melabBD.github/assets/78910261/009b1555-2d62-4564-b8b3-9af889c8a9b0)](https://raw.githubusercontent.com/yourusername/yourrepository/main/assets/video.mp4)
