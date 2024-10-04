@@ -144,5 +144,16 @@ Here are some key projects and resources provided by our community:
 **Feel free to explore, learn, and contribute!** 
 
 ---
+<a href="https://github.com/melabBD/.github/blob/417faaea34e5d0845221c38230f8363eb955c324/Assets/Images/melabBD%20Intro%20PowePoint%204.mp4">
+    <img src="https://github.com/user-attachments/assets/226590fa-e336-49d1-9b49-3dc88439df62" alt="Watch the video" style="width:50%;">
+</a>
 
-*[![Watch the video](https://github.com/user-attachments/assets/226590fa-e336-49d1-9b49-3dc88439df62)](https://github.com/melabBD/.github/blob/417faaea34e5d0845221c38230f8363eb955c324/Assets/Images/melabBD%20Intro%20PowePoint%204.mp4)
+*[![Watch the video](https://)](https://github.com/melabBD/.github/blob/417faaea34e5d0845221c38230f8363eb955c324/Assets/Images/melabBD%20Intro%20PowePoint%204.mp4)
+
+---
+
+
+[![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/A30niEPpD6k?v=VIDEO_ID)
+
+
+---
