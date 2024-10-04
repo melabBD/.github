@@ -117,7 +117,10 @@ Stay tuned for more educational content and subscribe to our YouTube channel for
 
 🚀 **Let’s build the future together!**  
 
-
+<p align="center">
+  <img src="https://github.com/melabBD/melabBD.github/assets/78910261/009b1555-2d62-4564-b8b3-9af889c8a9b0" alt="VoltMeter Connections" width="600"/>
+ 
+</p>
 
 
 <BR>
